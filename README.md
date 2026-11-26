@@ -1,6 +1,6 @@
 # Future-Block-Backport
 A chisel addon mod that backport some blocks from future version of minecraft mods.<br>
-Mainly support Minecratf 1.7.10 / GTNH 2.9.0.<br>
+Mainly support Minecraft 1.7.10 / GTNH 2.9.0.<br>
 Recommended to play with resourcepack Modernity-GTNH.
 
 ## Credit
