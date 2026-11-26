@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "futureblockbackport",
+    "name": "Future Block Backport",
+    "description": "A chisel addon mod that backport some blocks from future version of minecraft mods.",
+    "version": "${modVersion}",
+    "mcversion": "${minecraftVersion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["Future Block Backport"],
+    "credits": "Built on Chisel's carving API.",
+    "logoFile": "",
+    "screenshots": [],
+    "parent": "",
+    "dependencies": ["chisel", "GalacticraftCore", "GalaxySpace"]
+  }
+]

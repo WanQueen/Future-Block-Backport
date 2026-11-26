@@ -1,0 +1,119 @@
+itemGroup.futureblockbackport=Future Block Backport
+
+tile.moonRockVariants.0.name=Chiseled Moon Rock Brick
+tile.moonRockVariants.1.name=Moon Rock Brick
+tile.moonRockVariants.2.name=Cracked Moon Rock Brick
+tile.moonRockVariants.3.name=Polished Moon Rock
+tile.moonRockVariants.4.name=Cobbled Moon Rock
+tile.moonRockVariants.5.name=Dark Moon Rock
+tile.moonRockVariants.6.name=Chiseled Dark Moon Stone
+tile.moonRockVariants.7.name=Dark Moon Cobblestone
+tile.moonRockVariants.8.name=Dark Moon Deepslate
+tile.moonRockVariants.9.name=Dark Moon Stone
+tile.moonRockVariants.10.name=Dark Moon Stone Brick
+tile.moonRockVariants.11.name=Cracked Dark Moon Stone Brick
+tile.moonRockVariants.12.name=Dark Moon Stone Dust
+tile.moonRockVariants.13.name=Polished Dark Moon Stone
+tile.moonRockPillar.name=Moon Rock Pillar
+tile.moonStonePillar.name=Dark Moon Stone Pillar
+tile.moonPillar.name=Moon Pillar
+
+tile.basaltVariants.0.name=Moon Basalt Brick
+tile.basaltVariants.1.name=Cracked Moon Basalt Brick
+
+tile.venusSurfaceVariants.0.name=Soft Venus Surface Block
+tile.venusSurfaceVariants.1.name=Venus Sand
+tile.venusSurfaceVariants.2.name=Venus Sandstone
+tile.venusSurfaceVariants.3.name=Venus Sandstone Brick
+tile.venusSurfaceVariants.4.name=Cracked Venus Sandstone Brick
+
+tile.venusSubsurfaceVariants.0.name=Red Venus Dungeon Brick
+tile.venusSubsurfaceVariants.1.name=Yellow Venus Dungeon Brick
+tile.venusSubsurfaceVariants.2.name=Venus Stone
+tile.venusSubsurfaceVariants.3.name=Venus Stone Brick
+tile.venusSubsurfaceVariants.4.name=Cracked Venus Stone Brick
+tile.venusSubsurfaceVariants.5.name=Chiseled Venus Stone
+tile.venusSubsurfaceVariants.6.name=Polished Venus Stone
+tile.venusSubsurfaceVariants.7.name=Venus Cobblestone
+tile.venusPillar.name=Venus Pillar
+
+tile.moonSoilVariants.0.name=Moon Sand
+
+tile.marsCobblestoneVariants.0.name=Light Mars Cobblestone
+
+tile.marsSurfaceVariants.0.name=Mars Sand
+
+tile.marsStoneVariants.0.name=Light Mars Stone
+tile.marsStoneVariants.1.name=Light Mars Stone Brick
+tile.marsStoneVariants.2.name=Cracked Light Mars Stone Brick
+tile.marsStoneVariants.3.name=Chiseled Light Mars Stone
+tile.marsStoneVariants.4.name=Polished Light Mars Stone
+tile.marsStonePillar.name=Light Mars Stone Pillar
+tile.marsPillar.name=Mars Pillar
+
+tile.mercuryCoreVariants.0.name=Magenta Mercury Stone
+tile.mercuryCoreVariants.1.name=Magenta Mercury Cobblestone
+tile.mercuryCoreVariants.2.name=Magenta Mercury Stone Brick
+tile.mercuryCoreVariants.3.name=Cracked Magenta Mercury Stone Brick
+tile.mercuryCoreVariants.4.name=Chiseled Magenta Mercury Stone
+tile.mercuryCoreVariants.5.name=Polished Magenta Mercury Stone
+tile.mercuryStonePillar.name=Magenta Mercury Stone Pillar
+
+futureblockbackport.moon_rock.chiseled_moon_rock_brick.desc=Moon rock bricks framed by a carved border (from GC5)
+futureblockbackport.moon_rock.moon_rock_brick.desc=Moon rock cut into neat bricks (from GC5)
+futureblockbackport.moon_rock.cracked_moon_rock_brick.desc=Moon rock bricks, weathered and cracked (from GC5)
+futureblockbackport.moon_rock.polished_moon_rock.desc=Moon rock ground to a smooth finish (from GC5)
+futureblockbackport.moon_rock.cobbled_moon_rock.desc=Rough moon rock rubble bound together (from GC5)
+futureblockbackport.moon_rock.dark_moon_rock.desc=Moon rock darkened by shadow and dust (from GC5)
+futureblockbackport.moon_rock.chiseled_moon_stone.desc=Dark moon stone framed by a carved border (from Stellaris)
+futureblockbackport.moon_rock.moon_cobblestone.desc=Dark moon stone broken into rubble (from Stellaris)
+futureblockbackport.moon_rock.moon_deepslate.desc=Dark moon stone from deep below the surface (from Stellaris)
+futureblockbackport.moon_rock.moon_stone.desc=Plain dark moon stone (from Stellaris)
+futureblockbackport.moon_rock.moon_stone_bricks.desc=Dark moon stone cut into neat bricks (from Stellaris)
+futureblockbackport.moon_rock.cracked_moon_stone_bricks.desc=Dark moon bricks, weathered and cracked (from Stellaris)
+futureblockbackport.moon_rock.moon_stone_dust.desc=Fine dust that settles on the moon surface (from Stellaris)
+futureblockbackport.moon_rock.polished_moon_stone.desc=Dark moon stone ground to a smooth finish (from Stellaris)
+futureblockbackport.moon_rock.moon_rock_pillar_side.desc=Moon rock carved into a pillar (from GC5)
+futureblockbackport.moon_rock.moon_stone_pillar_side.desc=Dark moon stone carved into a pillar (from Stellaris)
+futureblockbackport.moon_rock.moon_pillar_side.desc=A pale pillar of moon stone (from Stellaris)
+
+futureblockbackport.basalt.moon_basalt_brick.desc=Lunar basalt cut into neat bricks (from GC5)
+futureblockbackport.basalt.cracked_moon_basalt_brick.desc=Lunar basalt bricks, weathered and cracked (from GC5)
+
+futureblockbackport.venus_surface_block.soft_venus_rock.desc=Venus surface rock, softened by the thick atmosphere (from GC5)
+futureblockbackport.venus_surface_block.venus_sand.desc=Sand drifted across the Venus surface (from Stellaris)
+futureblockbackport.venus_surface_block.venus_sandstone.desc=Venus sand compacted into stone (from Stellaris)
+futureblockbackport.venus_surface_block.venus_sandstone_bricks.desc=Venus sandstone cut into bricks (from Stellaris)
+futureblockbackport.venus_surface_block.cracked_venus_sandstone_bricks.desc=Venus sandstone bricks, cracked by the heat (from Stellaris)
+
+futureblockbackport.venus_subsurface_block.venus_dungeon_brick_block_red.desc=Red dungeon bricks, as used by the Venus dungeons (from GC5)
+futureblockbackport.venus_subsurface_block.venus_dungeon_brick_block_yellow.desc=Yellow dungeon bricks, as used by the Venus dungeons (from GC5)
+futureblockbackport.venus_subsurface_block.venus_stone.desc=The stone that lies beneath the Venus surface (from Stellaris)
+futureblockbackport.venus_subsurface_block.venus_stone_bricks.desc=Venus stone cut into neat bricks (from Stellaris)
+futureblockbackport.venus_subsurface_block.cracked_venus_stone_bricks.desc=Venus stone bricks, weathered and cracked (from Stellaris)
+futureblockbackport.venus_subsurface_block.chiseled_venus_stone.desc=Venus stone framed by a carved border (from Stellaris)
+futureblockbackport.venus_subsurface_block.polished_venus_stone.desc=Venus stone ground to a smooth finish (from Stellaris)
+futureblockbackport.venus_subsurface_block.venus_cobblestone.desc=Venus stone broken into rubble (from Stellaris)
+futureblockbackport.venus_subsurface_block.venus_pillar_side.desc=Venus stone carved into a pillar (from Stellaris)
+
+futureblockbackport.moon_soil.moon_sand.desc=Coarse sand mixed into the moon soil (from Stellaris)
+
+futureblockbackport.mars_cobblestone.mars_cobblestone.desc=Pale cobblestone from the Mars surface (from Stellaris)
+
+futureblockbackport.mars_surface_rock.mars_sand.desc=Sand blown across the Mars surface (from Stellaris)
+
+futureblockbackport.mars_stone.mars_stone.desc=Pale stone from the Mars surface (from Stellaris)
+futureblockbackport.mars_stone.mars_stone_bricks.desc=Mars stone cut into neat bricks (from Stellaris)
+futureblockbackport.mars_stone.cracked_mars_stone_bricks.desc=Mars stone bricks, weathered and cracked (from Stellaris)
+futureblockbackport.mars_stone.chiseled_mars_stone_bricks.desc=Mars stone framed by a carved border (from Stellaris)
+futureblockbackport.mars_stone.polished_mars_stone.desc=Mars stone ground to a smooth finish (from Stellaris)
+futureblockbackport.mars_stone.mars_stone_pillar_side.desc=Mars stone carved into a pillar (from Stellaris)
+futureblockbackport.mars_stone.mars_pillar_side.desc=A darker pillar of Mars stone (from Stellaris)
+
+futureblockbackport.mercury_core.mercury_stone.desc=Magenta stone from the Mercury core (from Stellaris)
+futureblockbackport.mercury_core.mercury_cobblestone.desc=Mercury stone broken into rubble (from Stellaris)
+futureblockbackport.mercury_core.mercury_stone_bricks.desc=Mercury stone cut into neat bricks (from Stellaris)
+futureblockbackport.mercury_core.cracked_mercury_stone_bricks.desc=Mercury stone bricks, weathered and cracked (from Stellaris)
+futureblockbackport.mercury_core.chiseled_mercury_stone.desc=Mercury stone framed by a carved border (from Stellaris)
+futureblockbackport.mercury_core.polished_mercury_stone.desc=Mercury stone ground to a smooth finish (from Stellaris)
+futureblockbackport.mercury_core.mercury_stone_pillar_side.desc=Mercury stone carved into a pillar (from Stellaris)
